@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FrontEnd`**
 
-Olá! É um prazer ter você aqui😊. Eu me chamo Alaiane Maiara Ferreira dos Santos, tenho 22 anos e sou natural de Lapa/Paraná. Atualmente, estou cursando Ciência da Computação na Unisul, além do curso de desenvolvimento FrontEnd React do SENAI. Sou apaixonada por tecnologia e criativade. Tenho um bom humor e estou aberta a novas amizades e conhecimentos a todo instante :)
+Olá! É um prazer ter você aqui😊. Eu me chamo Alaiane Maiara Ferreira dos Santos, tenho 22 anos e sou natural de Lapa/Paraná. Atualmente, estou cursando Ciência da Computação na Unisul, além do curso de desenvolvimento FrontEnd React do SENAI. Sou apaixonada por tecnologia e criatividade. Tenho um bom humor e estou aberta a novas amizades e conhecimentos a todo instante :)
 
 
 ### 🤖 Linguagens e Tecnologias
